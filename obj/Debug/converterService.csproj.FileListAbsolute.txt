@@ -1,0 +1,7 @@
+C:\Users\jgvalen2\Desktop\converterService\bin\converterService.dll.config
+C:\Users\jgvalen2\Desktop\converterService\bin\converterService.dll
+C:\Users\jgvalen2\Desktop\converterService\bin\converterService.pdb
+C:\Users\jgvalen2\Desktop\converterService\obj\Debug\converterService.csprojAssemblyReference.cache
+C:\Users\jgvalen2\Desktop\converterService\obj\Debug\converterService.csproj.CoreCompileInputs.cache
+C:\Users\jgvalen2\Desktop\converterService\obj\Debug\converterService.dll
+C:\Users\jgvalen2\Desktop\converterService\obj\Debug\converterService.pdb
